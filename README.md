@@ -1,6 +1,6 @@
 # FSDA  (Flexible Statistics Data Analysis) MATLAB toolbox
 
-XXXThe FSDA MATLAB Toolbox provides statisticians, engineers, scientists, researchers, and financial analysts with a comprehensive set of tools to assess and understand their data. FSDA Toolbox software includes functions and interactive tools for analyzing and modeling data, learning and teaching statistics.
+The FSDA MATLAB Toolbox provides statisticians, engineers, scientists, researchers, and financial analysts with a comprehensive set of tools to assess and understand their data. FSDA Toolbox software includes functions and interactive tools for analyzing and modeling data, learning and teaching statistics.
 You can grasp the main features from the short video http://rosa.unipr.it/fsda_video.html
 More details about the latest release can be found at
 http://rosa.unipr.it/FSDA/release_notes.html
