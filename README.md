@@ -1,12 +1,24 @@
-# Project Title FSDA
+# FSDA  (Flexible Statistics Data Analysis) MATLAB toolbox
 
-One Paragraph of project description goes here
+The FSDA MATLAB Toolbox provides statisticians, engineers, scientists, researchers, and financial analysts with a comprehensive set of tools to assess and understand their data. FSDA Toolbox software includes functions and interactive tools for analyzing and modeling data, learning and teaching statistics.
+You can grasp the main features from the short video http://rosa.unipr.it/fsda_video.html
+More details about the latest release can be found at
+http://rosa.unipr.it/FSDA/release_notes.html
 
-## Getting Started xxxx
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Getting Started 
 
-### Prerequisites aaaa
+You can start to familiarize with the FSDA toolbox in one of the following ways.
+
+A. Run the examples contained in files examples_regression.m or examples_multivariate.m or examples_categorical.m 
+   Notice that all examples are organized in cells
+B. Run the tutorials in the FSDA Matlab help pages 
+C. Watch the videos in the Examples section of the FSDA Matlab help pages 
+D. Read section "Introduction to robust statistics" or 
+	"Technical introduction to Robust Statistics" in the FSDA Matlab help pages 
+E. Read "Function reference page" in the FSDA Matlab help pages 
+
+### Prerequisites 
 
 What things you need to install the software and how to install them
 
@@ -16,41 +28,24 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+To install FSDA it is necessary to run the file installFSDA.m
+This file will:
+1) copy all the HTML FSDA documentation file inside in the path (MATLAB docroot)/FSDA
+2) Add a set folders to your MATLAB path (this can be done at any moment by running file addFSDA2path.m)
+3) Launch buildocsearchdb in subfolder (FSDA root)/helpfiles/pointersHTML
+4) Install the apps
 
 ## Running the tests
 
+A list of files containing a series of examples associated to regression, multivariate analysis, clustering and the analysis of categorical data can be found at:
+
+examples_regression.m (examples_regression.mlx)
+examples_multivariate.m (examples_multivariate.mlx)
+examples 
 Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -58,9 +53,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [MATLAB](http://www.mathworks.com/) - The web framework used
+
 
 ## Contributing
 
