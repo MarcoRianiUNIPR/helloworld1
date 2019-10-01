@@ -23,11 +23,8 @@ You can start to familiarize with the FSDA toolbox in one of the following ways.
 
 ### Prerequisites 
 
-What things you need to install the software and how to install them
+FSDA toolbox needs MATLAB at least release R2012a 
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -47,16 +44,13 @@ examples_multivariate.m (examples_multivariate.mlx)
 examples 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [MATLAB](http://www.mathworks.com/) - The web framework used
+* [MATLAB](http://www.mathworks.com/) - The web framework used??????
 
 
 ## Contributing
@@ -75,11 +69,36 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The FSDA toolbox is beeing protected by a European Union Public Licence (EUPL) - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+We would like to thank the following people for contributions given to the software implementation, development and testing or with suggestions, help and support to the FSDA project:
+ 
+Al Khudhairy Delilah (EC Joint Research Centre, Ispra, Italy) 
+Arsenis Spyros (EC Joint Research Centre, Ispra, Italy) 
+Atkinson Anthony C. (LSE, UK) 
+Azzini Ivano (Brilema, Milan, Italy) 
+Bini Matilde (Università Europea di Roma, Italy) 
+Grossi Luigi (University of Verona, Italy) 
+Gusmini Massimiliano (cfp bauer, Milan, Italy) 
+Laurini Fabrizio (University of Parma, Italy) 
+Insolia Luca (University of Pisa, Italy) 
+Solaro Nadia (University of Milan, Italy) 
+Zani Sergio (University of Parma, Italy) 
+
+The FSDA toolbox for MATLAB includes software developed by the following third parties: 
+
+1) selectdata: routine written by John D'errico that can be found in the Mathworks' page 
+http://www.mathworks.com/matlabcentral/fileexchange/13857.
+
+2) clickableLegend: function written by Ameya Deoras downloadable from 
+http://www.mathworks.com/matlabcentral/fx_files/21799/1/clickableLegend.m
+
+3) cascade: routine written by Isaac Noh downloadable from
+http://www.mathworks.com/matlabcentral/fileexchange/16002-cascade
+4) progressBar: routine written by Stefan Doerr, based on: parfor_progress written by Jeremy Scheff downloadable from
+http://www.mathworks.com/matlabcentral/fileexchange/43872-progress-bar-for-matlab-loops--incl-parfor-
+5) suplabel: routine written by Ben Barrowes downloadable from
+http://www.mathworks.com/matlabcentral/fileexchange/7772-suplabel
 
