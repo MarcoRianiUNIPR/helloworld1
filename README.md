@@ -64,9 +64,14 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Marco Riani** - *Initial work* - [MarcoRianiUNIPR](https://github.com/MarcoRianiUNIPR)
-* **Domenico Perrotta** - *Initial work* - [MarcoRianiUNIPR](https://github.com/MarcoRianiUNIPR)
+* **Domenico Perrotta** - *Initial work* - [DomenicoPerrottaJRC](https://github.com/DomenicoPerrottaJRC)
+* **Francesca Torti** - *Initial work* - [FrancescaTortiJRC](https://github.com/FrancescaTortiJRC)
+* **Aldo Corbellini** - [AldoCorbelliniUNIPR](https://github.com/AldoCorbelliniUNIPR)
+* **Gianluca Morelli** - [GianlucaMorelliUNIPR](https://github.com/GianlucaMorelliUNIPR)
+* **Silvia Salini** - [SilviaSaliniUNIMI](https://github.com/SilviaSaliniUNIMI)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+See also the list of [contributors](helpfiles/FSDA/index.html) who participated in this project.
 
 ## License
 
